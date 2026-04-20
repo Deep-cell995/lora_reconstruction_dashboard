@@ -1,0 +1,11 @@
+timestamp,node_id,latitude,longitude,raw_fragment
+1,NODE-A,28.6139,77.209,
+2,NODE-A,28.6205,77.2155,
+3,NODE-A,,,"{""node_id"":""NODE-A"",""timestamp"":3,""latitude"":28.6270,""longitude"":77.2220"
+4,NODE-A,,,
+5,NODE-A,28.6402,77.2351,
+1,NODE-B,22.5726,88.3639,
+2,NODE-B,22.5791,88.3702,
+3,NODE-B,,,"$GPGGA,123519,2235.0760,N,08822.5900,E,1,08,0.9,545.4,M,46.9,M,,*47"
+4,NODE-B,,,"$GPGGA,123520,2235.4,N,08822"
+5,NODE-B,22.598,88.3898,
